@@ -6,7 +6,8 @@ window.onload = function() {
     // url: "vRO 8.18.1 Swagger OpenAPI.json",
      urls: [
       { url: "vRO 8.18.1 Swagger OpenAPI.json", name: "Aria Automation Orchestrator 8.18.1" },
-      { url: "VCFOO 9.0.0 Swagger OpenAPI.json", name: "VCF Operations Orchestrator 9.0.0" }
+      { url: "VCFOO 9.0.0 Swagger OpenAPI.json", name: "VCF Operations Orchestrator 9.0.0" },
+      { url: "api-vra-vco-7.6.json", name: "[ARCHIEVED] vCenter Orchestrator 7.6" }
     ],
     dom_id: '#swagger-ui',
     deepLinking: true,
